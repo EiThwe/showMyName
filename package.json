@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-tt",
+  "version": "1.0.0",
+  "description": "san kyi tar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EiThwe/showMyName.git"
+  },
+  "keywords": [
+    "showmyname"
+  ],
+  "author": "Ei Thwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EiThwe/showMyName/issues"
+  },
+  "homepage": "https://github.com/EiThwe/showMyName#readme"
+}
